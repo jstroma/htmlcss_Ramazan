@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(230, 255, 255);
+  margin: 0px;
+}
+.top-container {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    position: relative;
+    left: 305px;
+}
+.middle-container {
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    position: relative;
+    bottom: 150px;
+}
+.bottom-container {
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    position: relative;
+    bottom: 300px;
+    left: 155px;
+}
+h2 {
+    color: rgb(255, 51, 51);
+    text-align: center;
+    font-family: serif;
+}
+
+
+.top-2 {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    position: absolute;
+    left: 300px;
+    top: 300px;
+}
+.middle-2 {
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    position: absolute;
+    top: 150px;
+    left:150px;
+}
+.bottom-2 {
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    position: absolute;
+
+}

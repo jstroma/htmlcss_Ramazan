@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(230, 255, 255);
+}
+.maindiv {
+    padding: 5px;
+}
+.firstH {
+    color: rgb(255, 51, 51);
+    text-align: center;
+    font-family: serif;
+}
+#secondH {
+    color: rgb(26, 26, 0);
+    text-align: center;
+}
+p.ex1 {
+    display: inline;
+}
+#restH {
+    color: rgb(0, 51, 102);
+    margin-left: 1%;
+}
+span {
+    color: rgb(255, 128, 128);
+}
+#texts {
+    color: rgb(26, 26, 0);
+    font-size: 16px;
+}
+#educ {
+    color: rgb(26, 26, 0);
+    font-size: 13.5px;
+    margin-left: 1.7%;
+}
+#inputs {
+    margin-left: 1%;
+}
+.withtable {
+    background-image:url('Shows.png');
+}
+table {
+    background-color: tomato;
+}
